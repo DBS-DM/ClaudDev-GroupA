@@ -1,1 +1,3 @@
 Derek
+
+# Git class Friday 
